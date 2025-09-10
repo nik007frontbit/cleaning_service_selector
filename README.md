@@ -1,17 +1,29 @@
 # cleaning_service_selector
 
-A new Flutter project.
+A Flutter-based application that allows users to select and book cleaning services with customizable options. The app demonstrates clean architecture, state management using GetX, theming, and responsive UI components like date and time pickers.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Features
 
-A few resources to get you started if this is your first Flutter project:
+- ✅ Select from multiple cleaning services (Standard, Deep Cleaning, Add-Ons)
+- ✅ View and adjust service quantities with dynamic pricing and duration calculations
+- ✅ Choose date and time with custom-themed pickers
+- ✅ Confirm bookings and view booking summary
+- ✅ Clear selections after successful booking
+- ✅ Clean and modern UI using Material Design principles
+- ✅ State management using [GetX](https://pub.dev/packages/get)
+- ✅ Supports portrait orientation and adaptive layout
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# cleaning_service_selector
+## 🚀 Getting Started
+
+### 📦 Flutter Version
+
+This project is built with **Flutter stable version 3.35.3**.
+
+You can switch to the correct version using:
+
+```bash
+flutter version 3.35.3
